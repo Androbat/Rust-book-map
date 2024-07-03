@@ -1,0 +1,1 @@
+/home/manuel/Documents/programming-practice/Rust/Rust-book-map/cargo_hello/hello_cargo/target/debug/hello_cargo: /home/manuel/Documents/programming-practice/Rust/Rust-book-map/cargo_hello/hello_cargo/src/main.rs
