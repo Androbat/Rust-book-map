@@ -1,0 +1,1 @@
+/home/manuel/Documents/programming-practice/Rust/Rust-book-map/guessing_game/guessing_game/target/debug/guessing_game: /home/manuel/Documents/programming-practice/Rust/Rust-book-map/guessing_game/guessing_game/src/main.rs
